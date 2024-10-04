@@ -1,2 +1,2 @@
-# LGBM_bayesian_optimization
+# LGBM_optimization
 In progress
